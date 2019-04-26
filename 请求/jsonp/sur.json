@@ -1,0 +1,6 @@
+handleResponse({
+  "name": "张三",
+  "age" : 12,
+  "friends"
+  : ["1","2","3"]
+})
